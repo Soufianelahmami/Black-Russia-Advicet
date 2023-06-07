@@ -1,54 +1,53 @@
 {"ads":{
-  
 
-"unity_inter":"Interstitial_Android",
-"unity_banner":"Banner_Android",
-"unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
- 
 
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
-  
+  "unity_inter":"Interstitial_Android",
+  "unity_banner":"Banner_Android",
+  "unity_reward":"Rewarded_Android",
+  "unity_gameid":"5082535",
 
-"admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_native":"ca-app-pub-3940256099942544/2247696110",
-"admob_reward":"ca-app-pub-3940256099942544/5224354917",
-  
-  
-"yandex_banner":"R-M-2421497-1",
-"yandex_inter":"R-M-2421497-3",
-"yandex_native":"R-M-2421497-2",
-"yandex_reward":"R-M-2421497-4",
-  
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
-"vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
 
-  
+  "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+  "facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+  "facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+  "facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
 
-"download_dialog_txt":"download text from server",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
-  
+
+  "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+  "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+  "admob_native":"ca-app-pub-3940256099942544/2247696110",
+  "admob_reward":"ca-app-pub-3940256099942544/5224354917",
+
+
+  "yandex_banner":"R-M-2421497-1",
+  "yandex_inter":"R-M-2421497-3",
+  "yandex_native":"R-M-2421497-2",
+  "yandex_reward":"R-M-2421497-4",
+
+  "vungle_appid":"645e64defe20a95ccb12bd7b ",
+  "vungle_inter":"INTER-5944534",
+  "vungle_banner":"DEFAULTBANNER-5844358",
+  "vungle_reward":"REWARD-7025613",
+
+
+
+  "download_dialog_txt":"download text from server",
+  "banner_network_choice":"yandex",
+  "interstisial_network_choice":"yandex",
+  "reward_network_choice":"yandex",
+  "native_network_choice":"yandex"
+
 
 },
   "my_data":[
-  {"desc1":"Black Russia is named after its fertile black soil, which makes it one of the most agriculturally productive regions in the country. The region boasts vast fields, rolling hills, dense forests, and charming rural landscapes"},
-  {"desc2":"The cultural and historical significance of Black Russia is reflected in its numerous museums, monuments, and landmarks, preserving the heritage of the area. Before embarking on a trip to Black Russia, it is advisable to research the specific attractions and activities available in each city or town you plan to visit."},
-  {"desc3":"Black Russia experiences a moderate continental climate, characterized by hot summers and cold winters. The best time to visit the region is during the spring (April to June) and autumn (September to October) when the weather is mild, and the landscapes are at their most vibrant"},
-  {"desc4":"Summers can be quite hot, with temperatures reaching 30°C (86°F) or higher, while winters can be harsh, with temperatures dropping below freezing and snowfall common. Pack accordingly, with lightweight clothing for summer and warm layers for winter visits."},
-  {"desc5":"Black Russia is well-connected to major cities in Russia by air, rail, and road. Voronezh International Airport and Lipetsk Airport serve as gateways to the region, providing domestic and international flights"},
-  {"desc6":"The rail network offers convenient connections to cities within Black Russia and neighboring regions. To explore the region extensively, renting a car is recommended as it provides greater flexibility and allows access to remote areas. However, public transportation, such as buses and trains, are also available for traveling between cities."},
-  {"desc7":"Russian is the official language spoken in Black Russia, and while some locals may have basic English language skills, it is beneficial to learn a few Russian phrases to facilitate communication. Politeness and respect for the local culture are appreciated and can go a long way in establishing connections with the locals"},
-  {"descd":"Russian culture places importance on courtesy and formalities. When visiting Black Russia, it is advisable to adhere to certain cultural etiquette. Greeting people with a handshake, maintaining eye contact, and using formal titles (e.g., "Mr." or "Mrs.") followed by the person's last name are customary"}
-   ]
- 
+    {"desc1":"Black Russia is named after its fertile black soil, which makes it one of the most agriculturally productive regions in the country. The region boasts vast fields, rolling hills, dense forests, and charming rural landscapes"},
+    {"desc2":"The cultural and historical significance of Black Russia is reflected in its numerous museums, monuments, and landmarks, preserving the heritage of the area. Before embarking on a trip to Black Russia, it is advisable to research the specific attractions and activities available in each city or town you plan to visit"},
+    {"desc3":"Black Russia experiences a moderate continental climate, characterized by hot summers and cold winters"},
+    {"desc4":"Russian is the official language spoken in Black Russia, and while some locals may have basic English language "},
+    {"desc5":"The rail network offers convenient connections to cities within Black Russia and neighboring regions"},
+    {"desc6":"Greeting people with a handshake, maintaining eye contact, and using formal titles (e.g., "Mr." or "Mrs.") followed by the person's last name are customary"},
+    {"desc7":"characterized by hot summers and cold winters"},
+    {"descd":"are also available for traveling between cities."}
+  ]
+
 }
-   
