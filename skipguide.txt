@@ -19,10 +19,10 @@
   "admob_reward":"ca-app-pub-3940256099942544/5224354917",
 
 
-  "yandex_banner":"R-M-2421497-1",
-  "yandex_inter":"R-M-2421497-3",
-  "yandex_native":"R-M-2421497-2",
-  "yandex_reward":"R-M-2421497-4",
+  "yandex_banner":"R-M-DEMO-320x100",
+  "yandex_inter":"R-M-DEMO-interstitial",
+  "yandex_native":"R-M-DEMO-native-i",
+  "yandex_reward":"demo-rewarded-yandex",
 
   "vungle_appid":"645e64defe20a95ccb12bd7b ",
   "vungle_inter":"INTER-5944534",
@@ -32,22 +32,22 @@
 
 
   "download_dialog_txt":"download text from server",
-  "banner_network_choice":"yandex",
-  "interstisial_network_choice":"yandex",
-  "reward_network_choice":"yandex",
-  "native_network_choice":"yandex"
+  "banner_network_choice":"admob",
+  "interstisial_network_choice":"admob",
+  "reward_network_choice":"admob",
+  "native_network_choice":"admob"
 
 
 },
   "my_data":[
-    {"desc1":"Black Russia is named after its fertile black soil, which makes it one of the most agriculturally productive regions in the country. The region boasts vast fields, rolling hills, dense forests, and charming rural landscapes"},
-    {"desc2":"The cultural and historical significance of Black Russia is reflected in its numerous museums, monuments, and landmarks, preserving the heritage of the area. Before embarking on a trip to Black Russia, it is advisable to research the specific attractions and activities available in each city or town you plan to visit"},
-    {"desc3":"Black Russia experiences a moderate continental climate, characterized by hot summers and cold winters"},
-    {"desc4":"Russian is the official language spoken in Black Russia, and while some locals may have basic English language "},
-    {"desc5":"The rail network offers convenient connections to cities within Black Russia and neighboring regions"},
-    {"desc6":"Greeting people with a handshake, maintaining eye contact, and using formal titles (e.g., "Mr." or "Mrs.") followed by the person's last name are customary"},
-    {"desc7":"characterized by hot summers and cold winters"},
-    {"descd":"are also available for traveling between cities."}
+    {"desc1":"description1 ser"},
+    {"desc2":"description2 ser"},
+    {"desc3":"description3 ser"},
+    {"desc4":"description4 ser"},
+    {"desc5":"description5 ser"},
+    {"desc6":"description5 ser"},
+    {"desc7":"description5 ser"},
+    {"descd":"description d ser"}
   ]
 
 }
