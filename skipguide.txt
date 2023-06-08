@@ -19,10 +19,10 @@
   "admob_reward":"ca-app-pub-3940256099942544/5224354917",
 
 
-  "yandex_banner":"R-M-DEMO-320x100",
-  "yandex_inter":"R-M-DEMO-interstitial",
-  "yandex_native":"R-M-DEMO-native-i",
-  "yandex_reward":"demo-rewarded-yandex",
+  "yandex_banner":"R-M-2421497-1",
+  "yandex_inter":"R-M-2421497-3",
+  "yandex_native":"R-M-2421497-2",
+  "yandex_reward":"R-M-2421497-4",
 
   "vungle_appid":"645e64defe20a95ccb12bd7b ",
   "vungle_inter":"INTER-5944534",
@@ -32,22 +32,22 @@
 
 
   "download_dialog_txt":"download text from server",
-  "banner_network_choice":"admob",
-  "interstisial_network_choice":"admob",
-  "reward_network_choice":"admob",
-  "native_network_choice":"admob"
+  "banner_network_choice":"yandex",
+  "interstisial_network_choice":"yandex",
+  "reward_network_choice":"yandex",
+  "native_network_choice":"yandex"
 
 
 },
   "my_data":[
-    {"desc1":"description1 ser"},
-    {"desc2":"description2 ser"},
-    {"desc3":"description3 ser"},
-    {"desc4":"description4 ser"},
-    {"desc5":"description5 ser"},
-    {"desc6":"description5 ser"},
-    {"desc7":"description5 ser"},
-    {"descd":"description d ser"}
+    {"desc1":"Black russia is an open-world action-adventure game developed by Rockstar North and published by Rockstar Games. It was released in September 2013 for various gaming platforms, including PlayStation 3, Xbox 360, PlayStation 4, Xbox One, and PC."},
+    {"desc2":"The game is set in the fictional state of San Andreas, which is based on Southern California. It features a vast open world where players can explore the city of Los Santos and the surrounding countryside"},
+    {"desc3":"Black russian offers a single-player story mode that follows the lives of three protagonists: Michael De Santa, Franklin Clinton, and Trevor Philips. Players can switch between these characters throughout the game, each with their own unique abilities and storylines."},
+    {"desc4":"In addition to the single-player mode, black russian also includes an online multiplayer mode known as Grand Theft Auto Online."},
+    {"desc5":" black russian  Online, players can create their own character and engage in various activities, such as missions, heists, races, and open-world exploration. The multiplayer mode allows for both cooperative and competitive gameplay, with the option to play with friends or other players from around the world."},
+    {"desc6":"black russian  received critical acclaim upon its release, praised for its expansive open world, engaging story, and innovative gameplay features. It has become one of the best-selling video games of all time, with a dedicated and active player base."},
+    {"desc7":"If you're looking for more specific articles or information about black russian , I recommend searching online gaming websites, news outlets, or dedicated black russian  communities for the latest articles, reviews, and updates on the game."},
+    {"descd":"LAST STEP TO PLAY "}
   ]
 
 }
